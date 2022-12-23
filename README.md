@@ -1,16 +1,15 @@
 # chatapp
 
-A new Flutter project.
+#Installation Guide
+1) Download the "Chat App.apk" file from above.
+2) Install in your Android Device.
+3) Register with Email (If you are new user) or Else Login In.
 
-## Getting Started
+Features
+1) Supports Groups Creation
+2) Private User to User message sending
+3) Group Admin 
+4) Join Public Group
+5) Authentication(Login In, SignUp) implemented by FireBase
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
